@@ -2,7 +2,7 @@
 - 👀 I’m interested in Networking 
 - 🌱 I’m currently learning about ACL's, Network Management and ASP .Net core
 - 💞️ I’m looking to collaborate on challenging research topics in networking
-- 📫 Contact me at janardhanykunta616@gmail.com
+- 📫 Contact me at janardhanykuntasr@gmail.com
 -
 
 <!---
